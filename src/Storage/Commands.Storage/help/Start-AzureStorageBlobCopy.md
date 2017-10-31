@@ -483,7 +483,7 @@ Required: True
 Position: Named
 Default value: None
 Accept pipeline input: False
-Accept wildcard characters: False
+A/ccept wildcard characters: False
 ```
 
 ### -Confirm
@@ -524,11 +524,7 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ### CloudBlob
 
-Parameter 'CloudBlob' accepts value of type 'CloudBlob' from the pipeline
-
-### IStorageContext
-
-Parameter 'Context' accepts value of type 'IStorageContext' from the pipeline
+Parameter 'CloudBlob' accepts value of type 'CloudBlob' and 'AzureStorageBlob' from the pipeline
 
 ### IStorageContext
 
